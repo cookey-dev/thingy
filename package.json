@@ -1,0 +1,30 @@
+{
+  "name": "thingy",
+  "version": "1.0.0",
+  "description": "Thingiverse viewer TUI",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cookey-dev/thingy.git"
+  },
+  "keywords": [
+    "3d",
+    "printer",
+    "stl",
+    "gcode",
+    "model",
+    "tui"
+  ],
+  "author": "Rowan C",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Cookey-dev/thingy/issues"
+  },
+  "homepage": "https://github.com/Cookey-dev/thingy#readme",
+  "dependencies": {
+    "got": "^13.0.0"
+  }
+}
